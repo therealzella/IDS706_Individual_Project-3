@@ -2,7 +2,7 @@
 
 A simple Flask application with multiple API endpoints for various functionalities, fully containerized using Docker and deployed to Google Cloud Run.
 
-![CI](https://github.com/therealzella/IDS706_Individual_Project-3.git)
+![CI](https://github.com/therealzella/IDS706-python-github-template/actions/workflows/ci.yml/badge.svg)
 
 ### Features ###
 
