@@ -13,7 +13,10 @@ A simple Flask application with multiple API endpoints for various functionaliti
 - LLM-based text generation.
 - Health check endpoint.
 - Word cloud generation.
-
+### Video demo link
+```
+https://youtu.be/144CNFthsOk
+```
 ### Flask Website Link
 ```bash
 https://flask-app-424823640221.us-east1.run.app
